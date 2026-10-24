@@ -1,0 +1,12 @@
+{
+  "name": "taglish-video-pipeline",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "make": "node make-video.mjs"
+  },
+  "dependencies": {
+    "gsap": "3.14.2",
+    "hyperframes": "0.8.191"
+  }
+}
